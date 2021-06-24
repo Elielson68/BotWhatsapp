@@ -5,7 +5,7 @@ from youtube_dl import YoutubeDL
 import time
 import os
 import threading
-
+#Arquivo principal
 firefox_options = Options()
 firefox_options.add_argument('--no-sandbox')
 firefox_options.add_argument('--disable-dev-shm-usage')
