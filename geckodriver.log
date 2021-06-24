@@ -1,0 +1,280 @@
+1615333423551	geckodriver	INFO	Listening on 127.0.0.1:54531
+1615333424548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefcgfz8"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615333437822	Marionette	INFO	Listening on port 43801
+1615333438042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615333438145	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.513916447b41999e9e9b.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.513916447b41999e9e9b.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615333486313	geckodriver	INFO	Listening on 127.0.0.1:40857
+1615333487241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecg4wc7"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615333501324	Marionette	INFO	Listening on port 46765
+1615333501531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615333501732	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615333620644	geckodriver	INFO	Listening on 127.0.0.1:36061
+1615333621658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBd5Xv"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615333634253	Marionette	INFO	Listening on port 39691
+1615333634542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615333634637	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1615333769929	Marionette	INFO	Stopped listening on port 39691
+1615426254223	geckodriver	INFO	Listening on 127.0.0.1:34833
+1615426255218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2nldlN"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615426276980	Marionette	INFO	Listening on port 32811
+1615426277322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615426277436	Marionette	ERROR	[15] No reply from Marionette:Register
+1615426395921	geckodriver	INFO	Listening on 127.0.0.1:34651
+1615426396910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileewDSgD"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615426409225	Marionette	INFO	Listening on port 39147
+1615426409509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615426409623	Marionette	ERROR	[15] No reply from Marionette:Register
+1615426783273	geckodriver	INFO	Listening on 127.0.0.1:44529
+1615426784269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCBnFp1"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615426800928	Marionette	INFO	Listening on port 46657
+1615426801234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615426801336	Marionette	ERROR	[15] No reply from Marionette:Register
+1615426899226	geckodriver	INFO	Listening on 127.0.0.1:51877
+1615426900250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile36w82F"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615426920322	Marionette	INFO	Listening on port 40833
+1615426920722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615426920839	Marionette	ERROR	[15] No reply from Marionette:Register
+1615426966650	geckodriver	INFO	Listening on 127.0.0.1:46189
+1615426967644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWKwOXl"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615426982744	Marionette	INFO	Listening on port 45113
+1615426983110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615426983309	Marionette	ERROR	[18] No reply from Marionette:Register
+1615427169240	geckodriver	INFO	Listening on 127.0.0.1:34851
+1615427170242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOMgOJc"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615427185764	Marionette	INFO	Listening on port 42003
+1615427186156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615427186296	Marionette	ERROR	[15] No reply from Marionette:Register
+1615427241303	geckodriver	INFO	Listening on 127.0.0.1:41897
+1615427242306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFE2uqK"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615427254630	Marionette	INFO	Listening on port 46791
+1615427254962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615427255124	Marionette	ERROR	[15] No reply from Marionette:Register
+1615491836257	geckodriver	INFO	Listening on 127.0.0.1:50579
+1615491837255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCTctAv"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615491851459	Marionette	INFO	Listening on port 45355
+1615491851761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615491851852	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+1615491916642	geckodriver	INFO	Listening on 127.0.0.1:55261
+1615491917650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePFkVky"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615491929328	Marionette	INFO	Listening on port 34133
+1615491929477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615491929690	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1615492121528	geckodriver	INFO	Listening on 127.0.0.1:54925
+1615492122619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerO57Bz"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615492135046	Marionette	INFO	Listening on port 40165
+1615492135348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615492135441	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230077,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23005C,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230080,name=PBrowser::Msg_RealMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230084,name=PBrowser::Msg_SynthMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60008,name=PWebSocket::Msg_OnStop) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230079,name=PBrowser::Msg_ChildToParentMatrix) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2300A2,name=PBrowser::Msg_UIResolutionChanged) Channel error: cannot send/recv
+
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1615492272643	Marionette	ERROR	[33] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1615492273326	Marionette	ERROR	[15] No reply from Marionette:Register
+1615492276729	Marionette	INFO	Stopped listening on port 40165
+1615492794671	geckodriver	INFO	Listening on 127.0.0.1:36729
+1615492795677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem0m6QR"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615492807747	Marionette	INFO	Listening on port 39591
+1615492808044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615492808135	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1615492953050	geckodriver	INFO	Listening on 127.0.0.1:33377
+1615492954044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqTY8P1"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615492966250	Marionette	INFO	Listening on port 45845
+1615492966453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615492966544	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230084,name=PBrowser::Msg_SynthMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230080,name=PBrowser::Msg_RealMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230080,name=PBrowser::Msg_RealMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230084,name=PBrowser::Msg_SynthMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0067,name=PContent::Msg_RefreshScreens) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230077,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x23005C,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230086,name=PBrowser::Msg_RealMouseButtonEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230084,name=PBrowser::Msg_SynthMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB6000A,name=PWebSocket::Msg_OnBinaryMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB60009,name=PWebSocket::Msg_OnMessageAvailable) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB6000A,name=PWebSocket::Msg_OnBinaryMessageAvailable) Channel error: cannot send/recv
+
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1615493355195	Marionette	ERROR	[33] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1615493355554	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+1615493356140	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1615493356866	Marionette	INFO	Stopped listening on port 45845
